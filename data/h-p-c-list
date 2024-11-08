@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "paket": "Paket Dasar",
+    "harga": "Rp 500k",
+    "list": [
+      "Design website responsif",
+      "Hingga 5 halaman",
+      "Konten Formulir kontak",
+      "Dasar Optimasi mesinpencari (SEO) dasar"
+    ]
+  },
+  {
+    "id": 2,
+    "paket": "Paket Profesional",
+    "harga": "Rp 1.2 jt",
+    "list": [
+      "Semua fitur dasar",
+      "Design website responsif",
+      "Hingga 10 halaman",
+      "Galeri foto/video",
+      "Dasar Optimasi mesinpencari (SEO) lanjutan"
+    ]
+  },
+  {
+    "id": 3,
+    "paket": "Paket Premium",
+    "harga": "Rp 2 jt",
+    "list": [
+      "Semua fitur Profesional",
+      "Halaman tak terbatas",
+      "Fungsi e-commerce",
+      "Blog atau berita",
+      "Dukungan berkelanjutan"
+    ]
+  }
+]
