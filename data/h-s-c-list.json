@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "image": 1,
+      "name": "Design UI/UX",
+      "desc": "Kami akan bekerja sama dengan Anda untuk memahami kebutuhan dan tujuan Anda, dan kemudian merancang website yang sempurna untuk Anda."
+    },
+    {
+      "id": 2,
+      "image": 2,
+      "name": "Create Website",
+      "desc": "Website yang secara otomatis menyesuaikan tampilannya agar optimal di berbagai perangkat, seperti desktop, laptop, tablet, dan smartphone."
+    },
+    {
+      "id": 3,
+      "image": 3,
+      "name": "Maintenance",
+      "desc": "Website Anda adalah aset penting bagi bisnis Anda. Pastikan website Anda selalu aman, lancar, dan terupdate dengan layanan maintenance website kami."
+    }
+  ]
+}
