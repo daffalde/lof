@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "image": 1,
+    "title": "Design UI/UX",
+    "desc": "Ciptakan website yang indah dan mudah digunakan dengan layanan desain UI/UX yang berfokus pada estetika dan fungsionalitas."
+  },
+  {
+    "id": 2,
+    "image": 2,
+    "title": "Maintenance Website",
+    "desc": "Jaga website klien Anda tetap berjalan lancar dan aman dengan layanan maintenance website, termasuk update software, backup data, dan troubleshooting."
+  },
+  {
+    "id": 3,
+    "image": 3,
+    "title": "Content Marketing",
+    "desc": "Bantu klien menarik dan mempertahankan pengunjung website dengan layanan content marketing yang menghasilkan konten berkualitas dan informatif."
+  },
+  {
+    "id": 4,
+    "image": 4,
+    "title": "Search Engine Optimization",
+    "desc": "Tingkatkan visibilitas website klien di mesin pencari dan datangkan lebih banyak traffic organik melalui layanan SEO yang strategis."
+  },
+  {
+    "id": 5,
+    "image": 5,
+    "title": "Social Media Marketing",
+    "desc": "Bangun brand awareness dan tingkatkan engagement dengan target audiens melalui layanan SMM yang mengoptimalkan penggunaan media sosial."
+  },
+  {
+    "id": 6,
+    "image": 6,
+    "title": "Web Development",
+    "desc": "Kembangkan website custom yang handal dan sesuai kebutuhan klien dengan layanan web development yang profesional dan berpengalaman."
+  },
+  {
+    "id": 7,
+    "image": 7,
+    "title": "Mobile App Development",
+    "desc": "Jangkau audiens yang lebih luas dengan layanan mobile app development untuk membuat aplikasi mobile yang fungsional dan menarik."
+  },
+  {
+    "id": 8,
+    "image": 8,
+    "title": "Other Services",
+    "desc": "Lengkapi kebutuhan klien dengan berbagai layanan lain seperti graphic design, video production, dan copywriting untuk menunjang website mereka secara menyeluruh."
+  }
+]
